@@ -1,7 +1,7 @@
 // ignore_for_file: file_names, unused_local_variable
 
-import 'package:back/modules/add.dart';
-import 'package:back/shared/cubit/cubit.dart';
+import 'package:TodoApp/modules/add.dart';
+import 'package:TodoApp/shared/cubit/cubit.dart';
 import 'package:conditional_builder_null_safety/conditional_builder_null_safety.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

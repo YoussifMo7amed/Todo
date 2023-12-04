@@ -1,6 +1,6 @@
-import 'package:back/modules/All.dart';
-import 'package:back/modules/completed.dart';
-import 'package:back/shared/cubit/states.dart';
+import 'package:TodoApp/modules/All.dart';
+import 'package:TodoApp/modules/completed.dart';
+import 'package:TodoApp/shared/cubit/states.dart';
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
